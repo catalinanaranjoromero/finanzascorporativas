@@ -1,0 +1,26 @@
+ID_Tienda,Nombre_Tienda,Ciudad,Responsable,Tipo_Tienda
+T001,TechStore T001,Medellín,Valentina Castro,Calle
+T002,TechStore T002,Ibagué,Andrés Rodríguez,Calle
+T003,TechStore T003,Cúcuta,Daniel Hernández,Outlet
+T004,TechStore T004,Cartagena,Felipe Rojas,Flagship
+T005,TechStore T005,Bogotá,Carlos Pérez,Calle
+T006,TechStore T006,Bogotá,María Fernanda López,Flagship
+T007,TechStore T007,Cartagena,María Fernanda López,Franquicia
+T008,TechStore T008,Ibagué,Carlos Pérez,Flagship
+T009,TechStore T009,Bucaramanga,Diana Gómez,Outlet
+T010,TechStore T010,Pereira,Laura Ramírez,Mall
+T011,TechStore T011,Barranquilla,Juan Martínez,Calle
+T012,TechStore T012,Bogotá,Carlos Pérez,Calle
+T013,TechStore T013,Cúcuta,Juan Martínez,Franquicia
+T014,TechStore T014,Bucaramanga,Laura Ramírez,Calle
+T015,TechStore T015,Ibagué,María Fernanda López,Mall
+T016,TechStore T016,Barranquilla,Diana Gómez,Franquicia
+T017,TechStore T017,Medellín,Carlos Pérez,Franquicia
+T018,TechStore T018,Manizales,Valentina Castro,Mall
+T019,TechStore T019,Barranquilla,Carlos Pérez,Flagship
+T020,TechStore T020,Manizales,Daniel Hernández,Calle
+T021,TechStore T021,Ibagué,Felipe Rojas,Outlet
+T022,TechStore T022,Ibagué,Juan Martínez,Mall
+T023,TechStore T023,Bucaramanga,Felipe Rojas,Flagship
+T024,TechStore T024,Medellín,Valentina Castro,Outlet
+T025,TechStore T025,Cartagena,María Fernanda López,Calle

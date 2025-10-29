@@ -1,0 +1,301 @@
+SKU,Nombre_Producto,Categoría,Precio_Unitario,Costo_Unitario,Stock,Marca
+P00001,Celular Smartphone,Tecnología,159600,91200,191,Samsung
+P00002,Celular Smartphone,Tecnología,320500,189300,151,Xiaomi
+P00003,Celular Smartphone,Tecnología,32200,20000,77,Motorola
+P00004,Laptop,Tecnología,33200,22100,104,HP
+P00005,Laptop,Tecnología,232600,138300,121,Dell
+P00006,Laptop,Tecnología,14400,10200,484,Lenovo
+P00007,"Televisor LED 50""",Tecnología,328900,251500,378,LG
+P00008,"Televisor OLED 55""",Tecnología,59000,39200,68,Sony
+P00009,Audífonos Bluetooth,Tecnología,130000,88400,162,JBL
+P00010,Audífonos In-Ear,Tecnología,173000,105000,266,Sony
+P00011,Mouse Inalámbrico,Tecnología,136600,76600,331,Logitech
+P00012,Teclado Inalámbrico,Tecnología,105700,79300,384,Logitech
+P00013,"Monitor 24""",Tecnología,181900,115800,117,AOC
+P00014,Consola de Videojuegos,Tecnología,56400,39700,175,Nintendo
+P00015,"Tablet 10""",Tecnología,118200,84000,105,Samsung
+P00016,Parlante Bluetooth,Tecnología,231400,148100,27,Bose
+P00017,Cargador USB-C,Tecnología,19300,14600,410,Belkin
+P00018,Memoria USB 64GB,Tecnología,379000,255700,311,Sandisk
+P00019,Disco SSD 500GB,Tecnología,111500,66200,266,Kingston
+P00020,Cámara Deportiva,Tecnología,195700,134800,93,GoPro
+P00021,Celular Smartphone,Tecnología,59400,37400,322,Samsung
+P00022,Celular Smartphone,Tecnología,12900,9300,33,Xiaomi
+P00023,Celular Smartphone,Tecnología,60800,37600,35,Motorola
+P00024,Laptop,Tecnología,124300,79900,26,HP
+P00025,Laptop,Tecnología,168100,119700,480,Dell
+P00026,Laptop,Tecnología,282900,162200,64,Lenovo
+P00027,"Televisor LED 50""",Tecnología,326100,228500,88,LG
+P00028,"Televisor OLED 55""",Tecnología,206800,126900,281,Sony
+P00029,Audífonos Bluetooth,Tecnología,41800,24700,120,JBL
+P00030,Audífonos In-Ear,Tecnología,17700,12700,40,Sony
+P00031,Mouse Inalámbrico,Tecnología,157000,107600,371,Logitech
+P00032,Teclado Inalámbrico,Tecnología,324200,223900,159,Logitech
+P00033,"Monitor 24""",Tecnología,123500,75500,369,AOC
+P00034,Consola de Videojuegos,Tecnología,39100,24100,125,Nintendo
+P00035,"Tablet 10""",Tecnología,21300,16200,90,Samsung
+P00036,Parlante Bluetooth,Tecnología,267900,155500,127,Bose
+P00037,Cargador USB-C,Tecnología,8200,6000,146,Belkin
+P00038,Memoria USB 64GB,Tecnología,156300,118400,229,Sandisk
+P00039,Disco SSD 500GB,Tecnología,327600,203000,139,Kingston
+P00040,Cámara Deportiva,Tecnología,129600,89000,40,GoPro
+P00041,Celular Smartphone,Tecnología,384400,273500,203,Samsung
+P00042,Celular Smartphone,Tecnología,88200,54900,85,Xiaomi
+P00043,Celular Smartphone,Tecnología,91400,69400,225,Motorola
+P00044,Laptop,Tecnología,139300,103100,258,HP
+P00045,Laptop,Tecnología,278800,203700,376,Dell
+P00046,Laptop,Tecnología,43700,30600,389,Lenovo
+P00047,"Televisor LED 50""",Tecnología,207300,158000,419,LG
+P00048,"Televisor OLED 55""",Tecnología,344600,236600,10,Sony
+P00049,Audífonos Bluetooth,Tecnología,228800,172400,218,JBL
+P00050,Audífonos In-Ear,Tecnología,15300,9600,388,Sony
+P00051,Mouse Inalámbrico,Tecnología,11700,7600,304,Logitech
+P00052,Teclado Inalámbrico,Tecnología,117700,87200,78,Logitech
+P00053,"Monitor 24""",Tecnología,300900,211800,372,AOC
+P00054,Consola de Videojuegos,Tecnología,175700,129600,131,Nintendo
+P00055,"Tablet 10""",Tecnología,56000,35900,237,Samsung
+P00056,Parlante Bluetooth,Tecnología,63200,41700,232,Bose
+P00057,Cargador USB-C,Tecnología,259700,191800,192,Belkin
+P00058,Memoria USB 64GB,Tecnología,254300,175400,310,Sandisk
+P00059,Disco SSD 500GB,Tecnología,198900,110200,36,Kingston
+P00060,Cámara Deportiva,Tecnología,251600,192000,69,GoPro
+P00061,Celular Smartphone,Tecnología,228100,173100,100,Samsung
+P00062,Celular Smartphone,Tecnología,64200,47400,469,Xiaomi
+P00063,Celular Smartphone,Tecnología,52100,28700,2,Motorola
+P00064,Laptop,Tecnología,287400,227500,441,HP
+P00065,Laptop,Tecnología,8300,6600,373,Dell
+P00066,Laptop,Tecnología,84400,53900,251,Lenovo
+P00067,"Televisor LED 50""",Tecnología,52900,38400,473,LG
+P00068,"Televisor OLED 55""",Tecnología,222200,143200,481,Sony
+P00069,Audífonos Bluetooth,Tecnología,103800,81100,496,JBL
+P00070,Audífonos In-Ear,Tecnología,97400,67300,196,Sony
+P00071,Mouse Inalámbrico,Tecnología,211600,122100,157,Logitech
+P00072,Teclado Inalámbrico,Tecnología,156400,102700,36,Logitech
+P00073,"Monitor 24""",Tecnología,112800,65400,453,AOC
+P00074,Consola de Videojuegos,Tecnología,248200,179000,471,Nintendo
+P00075,"Tablet 10""",Tecnología,16300,10500,197,Samsung
+P00076,Parlante Bluetooth,Tecnología,318500,175900,83,Bose
+P00077,Cargador USB-C,Tecnología,59200,45400,390,Belkin
+P00078,Memoria USB 64GB,Tecnología,279900,201000,490,Sandisk
+P00079,Disco SSD 500GB,Tecnología,148700,98000,394,Kingston
+P00080,Cámara Deportiva,Tecnología,108200,73300,260,GoPro
+P00081,Celular Smartphone,Tecnología,86800,50700,325,Samsung
+P00082,Celular Smartphone,Tecnología,150600,107400,356,Xiaomi
+P00083,Celular Smartphone,Tecnología,36900,23800,333,Motorola
+P00084,Laptop,Tecnología,114900,82300,474,HP
+P00085,Laptop,Tecnología,20100,14900,376,Dell
+P00086,Laptop,Tecnología,155700,122400,124,Lenovo
+P00087,"Televisor LED 50""",Tecnología,131400,82200,17,LG
+P00088,"Televisor OLED 55""",Tecnología,211000,154400,323,Sony
+P00089,Audífonos Bluetooth,Tecnología,182100,105300,357,JBL
+P00090,Audífonos In-Ear,Tecnología,338200,233000,133,Sony
+P00091,Mouse Inalámbrico,Tecnología,155600,123600,233,Logitech
+P00092,Teclado Inalámbrico,Tecnología,195200,150600,130,Logitech
+P00093,"Monitor 24""",Tecnología,75800,52400,308,AOC
+P00094,Consola de Videojuegos,Tecnología,330600,219600,487,Nintendo
+P00095,"Tablet 10""",Tecnología,158900,98600,6,Samsung
+P00096,Parlante Bluetooth,Tecnología,33900,22200,394,Bose
+P00097,Cargador USB-C,Tecnología,367700,229000,329,Belkin
+P00098,Memoria USB 64GB,Tecnología,110000,78100,203,Sandisk
+P00099,Disco SSD 500GB,Tecnología,295500,166300,498,Kingston
+P00100,Cámara Deportiva,Tecnología,314500,210600,265,GoPro
+P00101,Celular Smartphone,Tecnología,219900,152100,448,Samsung
+P00102,Celular Smartphone,Tecnología,54600,30200,84,Xiaomi
+P00103,Celular Smartphone,Tecnología,165100,107100,129,Motorola
+P00104,Laptop,Tecnología,30800,22900,256,HP
+P00105,Laptop,Tecnología,6200,3800,337,Dell
+P00106,Laptop,Tecnología,230100,181200,300,Lenovo
+P00107,"Televisor LED 50""",Tecnología,236800,182700,375,LG
+P00108,"Televisor OLED 55""",Tecnología,262200,152800,385,Sony
+P00109,Audífonos Bluetooth,Tecnología,140200,90200,55,JBL
+P00110,Audífonos In-Ear,Tecnología,257200,169400,397,Sony
+P00111,Mouse Inalámbrico,Tecnología,167300,93200,416,Logitech
+P00112,Teclado Inalámbrico,Tecnología,39700,30300,137,Logitech
+P00113,"Monitor 24""",Tecnología,76600,49400,476,AOC
+P00114,Consola de Videojuegos,Tecnología,403900,303000,357,Nintendo
+P00115,"Tablet 10""",Tecnología,181600,143600,3,Samsung
+P00116,Parlante Bluetooth,Tecnología,322000,238900,417,Bose
+P00117,Cargador USB-C,Tecnología,234800,176800,0,Belkin
+P00118,Memoria USB 64GB,Tecnología,93100,54500,35,Sandisk
+P00119,Disco SSD 500GB,Tecnología,102500,77600,268,Kingston
+P00120,Cámara Deportiva,Tecnología,130200,90600,335,GoPro
+P00121,Celular Smartphone,Tecnología,379500,241200,375,Samsung
+P00122,Celular Smartphone,Tecnología,179100,137800,87,Xiaomi
+P00123,Celular Smartphone,Tecnología,10300,6800,191,Motorola
+P00124,Laptop,Tecnología,83000,55400,360,HP
+P00125,Laptop,Tecnología,417800,331700,101,Dell
+P00126,Laptop,Tecnología,114700,67300,93,Lenovo
+P00127,"Televisor LED 50""",Tecnología,232500,179000,485,LG
+P00128,"Televisor OLED 55""",Tecnología,55500,41900,230,Sony
+P00129,Audífonos Bluetooth,Tecnología,240700,154400,416,JBL
+P00130,Audífonos In-Ear,Tecnología,128600,82800,95,Sony
+P00131,Mouse Inalámbrico,Tecnología,267600,167600,30,Logitech
+P00132,Teclado Inalámbrico,Tecnología,50600,36800,414,Logitech
+P00133,"Monitor 24""",Tecnología,279900,217600,132,AOC
+P00134,Consola de Videojuegos,Tecnología,270400,165300,225,Nintendo
+P00135,"Tablet 10""",Tecnología,89200,65100,55,Samsung
+P00136,Parlante Bluetooth,Tecnología,358200,205200,40,Bose
+P00137,Cargador USB-C,Tecnología,294900,195600,43,Belkin
+P00138,Memoria USB 64GB,Tecnología,104000,67400,63,Sandisk
+P00139,Disco SSD 500GB,Tecnología,222400,135000,32,Kingston
+P00140,Cámara Deportiva,Tecnología,194400,117300,15,GoPro
+P00141,Celular Smartphone,Tecnología,222700,128400,120,Samsung
+P00142,Celular Smartphone,Tecnología,108700,67900,248,Xiaomi
+P00143,Celular Smartphone,Tecnología,131200,78200,4,Motorola
+P00144,Laptop,Tecnología,192800,148700,136,HP
+P00145,Laptop,Tecnología,55800,41700,340,Dell
+P00146,Laptop,Tecnología,17500,12600,404,Lenovo
+P00147,"Televisor LED 50""",Tecnología,235500,143300,49,LG
+P00148,"Televisor OLED 55""",Tecnología,62200,40100,267,Sony
+P00149,Audífonos Bluetooth,Tecnología,336600,221900,192,JBL
+P00150,Audífonos In-Ear,Tecnología,182600,137600,266,Sony
+P00151,Mouse Inalámbrico,Tecnología,21700,15800,477,Logitech
+P00152,Teclado Inalámbrico,Tecnología,125000,96700,242,Logitech
+P00153,"Monitor 24""",Tecnología,312400,176000,309,AOC
+P00154,Consola de Videojuegos,Tecnología,134300,82500,172,Nintendo
+P00155,"Tablet 10""",Tecnología,270700,211600,349,Samsung
+P00156,Parlante Bluetooth,Tecnología,191900,129400,161,Bose
+P00157,Cargador USB-C,Tecnología,13100,7600,481,Belkin
+P00158,Memoria USB 64GB,Tecnología,187200,132000,340,Sandisk
+P00159,Disco SSD 500GB,Tecnología,135600,102200,193,Kingston
+P00160,Cámara Deportiva,Tecnología,60000,45200,29,GoPro
+P00161,Celular Smartphone,Tecnología,166000,106400,447,Samsung
+P00162,Celular Smartphone,Tecnología,229900,179600,412,Xiaomi
+P00163,Celular Smartphone,Tecnología,376600,284600,1,Motorola
+P00164,Laptop,Tecnología,168500,98400,445,HP
+P00165,Laptop,Tecnología,101800,64400,371,Dell
+P00166,Laptop,Tecnología,132100,101400,13,Lenovo
+P00167,"Televisor LED 50""",Tecnología,15100,11200,62,LG
+P00168,"Televisor OLED 55""",Tecnología,22600,15800,143,Sony
+P00169,Audífonos Bluetooth,Tecnología,266900,212400,188,JBL
+P00170,Audífonos In-Ear,Tecnología,171200,115600,316,Sony
+P00171,Mouse Inalámbrico,Tecnología,148000,110500,263,Logitech
+P00172,Teclado Inalámbrico,Tecnología,55300,41900,338,Logitech
+P00173,"Monitor 24""",Tecnología,141400,105100,1,AOC
+P00174,Consola de Videojuegos,Tecnología,141500,84100,8,Nintendo
+P00175,"Tablet 10""",Tecnología,102700,56500,447,Samsung
+P00176,Parlante Bluetooth,Tecnología,178500,130300,496,Bose
+P00177,Cargador USB-C,Tecnología,185400,143500,347,Belkin
+P00178,Memoria USB 64GB,Tecnología,23600,14500,119,Sandisk
+P00179,Disco SSD 500GB,Tecnología,12500,8600,248,Kingston
+P00180,Cámara Deportiva,Tecnología,380200,293000,378,GoPro
+P00181,Celular Smartphone,Tecnología,93200,56600,406,Samsung
+P00182,Celular Smartphone,Tecnología,99800,69000,178,Xiaomi
+P00183,Celular Smartphone,Tecnología,423900,262000,480,Motorola
+P00184,Laptop,Tecnología,329900,233900,337,HP
+P00185,Laptop,Tecnología,54500,34800,375,Dell
+P00186,Laptop,Tecnología,37000,29000,150,Lenovo
+P00187,"Televisor LED 50""",Tecnología,44500,29600,99,LG
+P00188,"Televisor OLED 55""",Tecnología,19500,12100,445,Sony
+P00189,Audífonos Bluetooth,Tecnología,273400,153000,448,JBL
+P00190,Audífonos In-Ear,Tecnología,270600,176400,401,Sony
+P00191,Mouse Inalámbrico,Tecnología,57000,33300,16,Logitech
+P00192,Teclado Inalámbrico,Tecnología,282500,223300,254,Logitech
+P00193,"Monitor 24""",Tecnología,248500,193400,154,AOC
+P00194,Consola de Videojuegos,Tecnología,72400,43800,447,Nintendo
+P00195,"Tablet 10""",Tecnología,182400,115700,86,Samsung
+P00196,Parlante Bluetooth,Tecnología,254900,142100,488,Bose
+P00197,Cargador USB-C,Tecnología,125900,98300,246,Belkin
+P00198,Memoria USB 64GB,Tecnología,115600,66900,123,Sandisk
+P00199,Disco SSD 500GB,Tecnología,261200,186000,108,Kingston
+P00200,Cámara Deportiva,Tecnología,328400,204100,385,GoPro
+P00201,Celular Smartphone,Tecnología,40400,31300,54,Samsung
+P00202,Celular Smartphone,Tecnología,209300,135600,366,Xiaomi
+P00203,Celular Smartphone,Tecnología,89300,50200,82,Motorola
+P00204,Laptop,Tecnología,157600,93100,462,HP
+P00205,Laptop,Tecnología,166200,102300,392,Dell
+P00206,Laptop,Tecnología,88000,69600,112,Lenovo
+P00207,"Televisor LED 50""",Tecnología,282800,185800,340,LG
+P00208,"Televisor OLED 55""",Tecnología,183200,124600,487,Sony
+P00209,Audífonos Bluetooth,Tecnología,121500,69400,340,JBL
+P00210,Audífonos In-Ear,Tecnología,237500,154400,472,Sony
+P00211,Mouse Inalámbrico,Tecnología,244800,162400,324,Logitech
+P00212,Teclado Inalámbrico,Tecnología,40400,30500,46,Logitech
+P00213,"Monitor 24""",Tecnología,14200,10800,446,AOC
+P00214,Consola de Videojuegos,Tecnología,167200,128600,477,Nintendo
+P00215,"Tablet 10""",Tecnología,102100,78200,392,Samsung
+P00216,Parlante Bluetooth,Tecnología,62400,37100,33,Bose
+P00217,Cargador USB-C,Tecnología,266200,149100,193,Belkin
+P00218,Memoria USB 64GB,Tecnología,30700,24500,334,Sandisk
+P00219,Disco SSD 500GB,Tecnología,19000,11900,494,Kingston
+P00220,Cámara Deportiva,Tecnología,307600,195600,413,GoPro
+P00221,Celular Smartphone,Tecnología,36300,25600,114,Samsung
+P00222,Celular Smartphone,Tecnología,170900,123300,59,Xiaomi
+P00223,Celular Smartphone,Tecnología,304600,189500,44,Motorola
+P00224,Laptop,Tecnología,264300,165100,45,HP
+P00225,Laptop,Tecnología,126300,81400,379,Dell
+P00226,Laptop,Tecnología,309000,177300,479,Lenovo
+P00227,"Televisor LED 50""",Tecnología,109700,84200,381,LG
+P00228,"Televisor OLED 55""",Tecnología,43500,29400,293,Sony
+P00229,Audífonos Bluetooth,Tecnología,12700,9900,65,JBL
+P00230,Audífonos In-Ear,Tecnología,19600,12200,488,Sony
+P00231,Mouse Inalámbrico,Tecnología,54900,38800,295,Logitech
+P00232,Teclado Inalámbrico,Tecnología,314500,186300,159,Logitech
+P00233,"Monitor 24""",Tecnología,249200,197600,302,AOC
+P00234,Consola de Videojuegos,Tecnología,68400,54000,97,Nintendo
+P00235,"Tablet 10""",Tecnología,52600,36900,216,Samsung
+P00236,Parlante Bluetooth,Tecnología,13200,7900,394,Bose
+P00237,Cargador USB-C,Tecnología,20000,14600,408,Belkin
+P00238,Memoria USB 64GB,Tecnología,145800,112600,266,Sandisk
+P00239,Disco SSD 500GB,Tecnología,19900,15600,302,Kingston
+P00240,Cámara Deportiva,Tecnología,415900,265800,54,GoPro
+P00241,Celular Smartphone,Tecnología,136600,85400,4,Samsung
+P00242,Celular Smartphone,Tecnología,145300,99600,436,Xiaomi
+P00243,Celular Smartphone,Tecnología,234000,171700,161,Motorola
+P00244,Laptop,Tecnología,22900,13500,417,HP
+P00245,Laptop,Tecnología,303100,216700,428,Dell
+P00246,Laptop,Tecnología,183700,104900,255,Lenovo
+P00247,"Televisor LED 50""",Tecnología,120100,66200,75,LG
+P00248,"Televisor OLED 55""",Tecnología,141100,112400,145,Sony
+P00249,Audífonos Bluetooth,Tecnología,123300,75500,382,JBL
+P00250,Audífonos In-Ear,Tecnología,188700,136500,306,Sony
+P00251,Mouse Inalámbrico,Tecnología,310800,215800,158,Logitech
+P00252,Teclado Inalámbrico,Tecnología,141900,80900,352,Logitech
+P00253,"Monitor 24""",Tecnología,160700,116300,140,AOC
+P00254,Consola de Videojuegos,Tecnología,286500,228600,244,Nintendo
+P00255,"Tablet 10""",Tecnología,307200,223400,253,Samsung
+P00256,Parlante Bluetooth,Tecnología,238500,160700,360,Bose
+P00257,Cargador USB-C,Tecnología,354400,252900,30,Belkin
+P00258,Memoria USB 64GB,Tecnología,18300,11300,78,Sandisk
+P00259,Disco SSD 500GB,Tecnología,145400,97200,434,Kingston
+P00260,Cámara Deportiva,Tecnología,249600,142600,358,GoPro
+P00261,Celular Smartphone,Tecnología,266900,169300,472,Samsung
+P00262,Celular Smartphone,Tecnología,409700,304200,438,Xiaomi
+P00263,Celular Smartphone,Tecnología,371000,295400,372,Motorola
+P00264,Laptop,Tecnología,131600,78800,153,HP
+P00265,Laptop,Tecnología,29700,23100,11,Dell
+P00266,Laptop,Tecnología,326500,210000,200,Lenovo
+P00267,"Televisor LED 50""",Tecnología,393600,230700,216,LG
+P00268,"Televisor OLED 55""",Tecnología,248400,158100,178,Sony
+P00269,Audífonos Bluetooth,Tecnología,164100,114900,200,JBL
+P00270,Audífonos In-Ear,Tecnología,205400,135200,270,Sony
+P00271,Mouse Inalámbrico,Tecnología,313300,198900,144,Logitech
+P00272,Teclado Inalámbrico,Tecnología,78800,51900,358,Logitech
+P00273,"Monitor 24""",Tecnología,257500,180100,201,AOC
+P00274,Consola de Videojuegos,Tecnología,52700,34900,67,Nintendo
+P00275,"Tablet 10""",Tecnología,212500,149200,385,Samsung
+P00276,Parlante Bluetooth,Tecnología,212800,125800,443,Bose
+P00277,Cargador USB-C,Tecnología,202600,127300,435,Belkin
+P00278,Memoria USB 64GB,Tecnología,288900,212700,234,Sandisk
+P00279,Disco SSD 500GB,Tecnología,54600,34000,295,Kingston
+P00280,Cámara Deportiva,Tecnología,138600,103900,226,GoPro
+P00281,Celular Smartphone,Tecnología,268800,151700,149,Samsung
+P00282,Celular Smartphone,Tecnología,32000,24800,107,Xiaomi
+P00283,Celular Smartphone,Tecnología,116200,68800,411,Motorola
+P00284,Laptop,Tecnología,167100,107200,376,HP
+P00285,Laptop,Tecnología,351000,231000,185,Dell
+P00286,Laptop,Tecnología,149100,104800,52,Lenovo
+P00287,"Televisor LED 50""",Tecnología,141300,105500,192,LG
+P00288,"Televisor OLED 55""",Tecnología,367600,270600,347,Sony
+P00289,Audífonos Bluetooth,Tecnología,43600,30700,474,JBL
+P00290,Audífonos In-Ear,Tecnología,187900,121700,49,Sony
+P00291,Mouse Inalámbrico,Tecnología,141200,79000,498,Logitech
+P00292,Teclado Inalámbrico,Tecnología,138300,78300,91,Logitech
+P00293,"Monitor 24""",Tecnología,168100,97600,60,AOC
+P00294,Consola de Videojuegos,Tecnología,34100,18900,332,Nintendo
+P00295,"Tablet 10""",Tecnología,28700,21500,303,Samsung
+P00296,Parlante Bluetooth,Tecnología,29600,19500,496,Bose
+P00297,Cargador USB-C,Tecnología,54800,34400,321,Belkin
+P00298,Memoria USB 64GB,Tecnología,274300,179400,125,Sandisk
+P00299,Disco SSD 500GB,Tecnología,231900,145300,60,Kingston
+P00300,Cámara Deportiva,Tecnología,79300,57600,203,GoPro
